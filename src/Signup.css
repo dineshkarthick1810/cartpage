@@ -1,0 +1,35 @@
+.forsignupinput{
+    padding: 10px;
+    font-weight: bold;
+    
+    width: 400px;
+}
+.input-group-text{
+    font-weight: bold;
+    padding: 10px;
+}
+.forinputfeild{
+    font-weight: bold;
+}
+#basic-addon1{
+  font-weight: bold;
+  font-size: 20px;
+}
+.forsvg{
+    width: 100%;
+height: 100vh;
+position: relative;
+}
+.formobilebackground{
+    height: 100vh;
+position: absolute;
+left: 0px;
+right: 200px;
+}
+.forcenter{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
